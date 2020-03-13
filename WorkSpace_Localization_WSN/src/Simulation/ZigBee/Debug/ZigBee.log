@@ -1,0 +1,83 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  802_15_4.c
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.h(316,2): warning C4995:  'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.h(316,2): warning C4995: D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.c(25) : Warning Msg: propagation_get_received_power_dbm function is deprcated. Use _propagation_get_received_power_dbm
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.c(23,1): warning C4996:  'get_propagation_info': get_propagation_info is deprected.
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\Include\PropagationModel.h(359): message :  see declaration of 'get_propagation_info'
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\Include\PropagationModel.h(359): message : D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.c(304) : Warning Msg: propagation_get_received_power_dbm function is deprcated. Use _propagation_get_received_power_dbm
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\Include\PropagationModel.h(359): message : D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.c(304) : Warning Msg: propagation_get_received_power_dbm function is deprcated. Use _propagation_get_received_power_dbm
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\Include\PropagationModel.h(359): message : D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.c(314) : Warning Msg: propagation_get_received_power_dbm function is deprcated. Use _propagation_get_received_power_dbm
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\Include\PropagationModel.h(359): message : D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.c(314) : Warning Msg: propagation_get_received_power_dbm function is deprcated. Use _propagation_get_received_power_dbm
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\Include\PropagationModel.h(359): message : D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.c(317) : Warning Msg: propagation_get_received_power_dbm function is deprcated. Use _propagation_get_received_power_dbm
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\Include\PropagationModel.h(359): message : D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.c(399) : Warning Msg: propagation_get_received_power_dbm function is deprcated. Use _propagation_get_received_power_dbm
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\Include\PropagationModel.h(359): message : D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.c(399) : Warning Msg: propagation_get_received_power_dbm function is deprcated. Use _propagation_get_received_power_dbm
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\Include\PropagationModel.h(359): message : D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.c(407) : Warning Msg: propagation_get_received_power_dbm function is deprcated. Use _propagation_get_received_power_dbm
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\Include\PropagationModel.h(359): message : D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.c(407) : Warning Msg: propagation_get_received_power_dbm function is deprcated. Use _propagation_get_received_power_dbm
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\Include\PropagationModel.h(359): message : D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.c(509) : Warning Msg: propagation_get_received_power_dbm function is deprcated. Use _propagation_get_received_power_dbm
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\Include\PropagationModel.h(359): message : D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.c(509) : Warning Msg: propagation_get_received_power_dbm function is deprcated. Use _propagation_get_received_power_dbm
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.c(304,1): warning C4996:  'get_propagation_info': get_propagation_info is deprected.
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\Include\PropagationModel.h(359): message :  see declaration of 'get_propagation_info'
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.c(314,1): warning C4996:  'get_propagation_info': get_propagation_info is deprected.
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\Include\PropagationModel.h(359): message :  see declaration of 'get_propagation_info'
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.c(317,1): warning C4996:  'get_propagation_info': get_propagation_info is deprected.
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\Include\PropagationModel.h(359): message :  see declaration of 'get_propagation_info'
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.c(399,1): warning C4996:  'get_propagation_info': get_propagation_info is deprected.
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\Include\PropagationModel.h(359): message :  see declaration of 'get_propagation_info'
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.c(405,1): warning C4996:  'get_propagation_info': get_propagation_info is deprected.
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\Include\PropagationModel.h(359): message :  see declaration of 'get_propagation_info'
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.c(509,1): warning C4996:  'get_propagation_info': get_propagation_info is deprected.
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\Include\PropagationModel.h(359): message :  see declaration of 'get_propagation_info'
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.c(385,11): warning C4101:  'dErrorRange': unreferenced local variable
+  BackoffCalculation.c
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.c(709,24): warning C4013:  'fn_NetSim_localisation' undefined; assuming extern returning int
+  BERCalculation.c
+  CCA.c
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.h(316,2): warning C4995:  'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  ChangeRadioState.c
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.h(316,2): warning C4995:  'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  Localisation.c
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.h(316,2): warning C4995:  'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.h(316,2): warning C4995:  'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\Localisation.c(85,16): warning C4018:  '<': signed/unsigned mismatch
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\Localisation.c(119,16): warning C4018:  '<': signed/unsigned mismatch
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\Localisation.c(133,37): warning C4047:  '=': 'FILE *' differs in levels of indirection from 'int'
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\Localisation.c(146,16): warning C4018:  '<': signed/unsigned mismatch
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\Localisation.c(160,63): warning C4047:  '=': 'SENSOR_DETAILS' differs in levels of indirection from 'SENSOR_DETAILS *'
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\Localisation.c(161,17): warning C4018:  '<': signed/unsigned mismatch
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\Localisation.c(161,17): warning C4018: D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\Localisation.c(165) : Warning Msg: propagation_get_received_power_dbm function is deprcated. Use _propagation_get_received_power_dbm
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\Localisation.c(196,23): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\Localisation.c(207,89): warning C4133:  '=': incompatible types - from 'SENSOR_DETAILS *' to 'ANCHOR_DETAILS *'
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\Localisation.c(212,96): warning C4047:  '=': 'ANCHOR_DETAILS' differs in levels of indirection from 'SENSOR_DETAILS *'
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\Localisation.c(213,62): warning C4047:  '=': 'ANCHOR_DETAILS' differs in levels of indirection from 'ANCHOR_DETAILS *'
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\Localisation.c(215,27): warning C4047:  'function': 'int *' differs in levels of indirection from 'int'
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\Localisation.c(215,27): warning C4024:  'get_device_id': different types for formal and actual parameter 1
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\Localisation.c(251,17): warning C4018:  '<': signed/unsigned mismatch
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\Localisation.c(165,1): warning C4996:  'get_propagation_info': get_propagation_info is deprected.
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\Include\PropagationModel.h(359): message :  see declaration of 'get_propagation_info'
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\Localisation.c(262,1): warning C4028:  formal parameter 1 different from declaration
+  LocateBackoffBoundary.c
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\Localisation.c(264,16): warning C4018:  '<': signed/unsigned mismatch
+  SINRCalculation.c
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.h(316,2): warning C4995:  'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  SlottedCSMACA.c
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.h(316,2): warning C4995:  'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  Superframe.c
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.h(316,2): warning C4995:  'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  UnslottedCSMACA.c
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.h(316,2): warning C4995:  'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  Generating Code...
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\802_15_4.h(316,2): warning C4995:  'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\Localisation.c(301): warning C4716:  'fn_NetSim_trilateration_method': must return a value
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\Localisation.c(259): warning C4715:  'fn_NetSim_localisation': not all control paths return a value
+D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\Localisation.c(271): warning C4715:  'get_device_id': not all control paths return a value
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1264,5): warning MSB8012: TargetPath(D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\..\..\..\bin\bin_x86\ZigBee.dll) does not match the Linker's OutputFile property value (D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\bin\bin_x86\libZigBee.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1266,5): warning MSB8012: TargetName(ZigBee) does not match the Linker's OutputFile property value (libZigBee). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+802_15_4.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Zigbee.lib(802_15_4_lib.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+802_15_4.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+     Creating library ..\..\..\bin\bin_x86\ZigBee.lib and object ..\..\..\bin\bin_x86\ZigBee.exp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Finished generating code
+Zigbee.lib(802_15_4_lib.obj) : warning LNK4099: PDB 'ZigbeeLib.pdb' was not found with 'Zigbee.lib(802_15_4_lib.obj)' or at 'D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\bin\bin_x86\ZigbeeLib.pdb'; linking object as if no debug info
+  ZigBee.vcxproj -> D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\ZigBee\..\..\..\bin\bin_x86\ZigBee.dll

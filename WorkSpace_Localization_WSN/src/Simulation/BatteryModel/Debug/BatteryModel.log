@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  BatteryModel.c
+BatteryModel.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+     Creating library ..\..\..\bin\bin_x86\BatteryModel.lib and object ..\..\..\bin\bin_x86\BatteryModel.exp
+  BatteryModel.vcxproj -> D:\New\Localisation_in_WSN_v12.1\WorkSpace_Localization_WSN\src\Simulation\BatteryModel\..\..\..\bin\bin_x86\BatteryModel.dll
